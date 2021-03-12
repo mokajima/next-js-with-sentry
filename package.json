@@ -8,9 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
-    "@sentry/browser": "^5.21.3",
-    "@sentry/integrations": "^5.21.3",
-    "@sentry/node": "^5.21.3",
+    "@sentry/browser": "^6.2.2",
+    "@sentry/integrations": "^6.2.2",
+    "@sentry/node": "^6.2.2",
     "@sentry/webpack-plugin": "^1.12.1",
     "next": "latest",
     "react": "^16.8.6",
